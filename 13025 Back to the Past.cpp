@@ -1,5 +1,5 @@
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
-    cout<<"OBAIDA"<<endl;
+    cout<<"May 29, 2013 Wednesday"<<endl;
 }
